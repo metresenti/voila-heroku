@@ -1,11 +1,4 @@
 voila
-torch
-fastai==1.0.61
-pillow<7
-packaging
+voila-material
 ipywidgets
-transformers==3.2.0
 googletrans
-gdown
-pathlib
-IPython
