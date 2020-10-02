@@ -2,3 +2,5 @@ voila
 voila-material
 ipywidgets
 googletrans
+pandas
+requests
